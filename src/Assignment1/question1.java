@@ -23,6 +23,7 @@ import java.util.Scanner;
 				n.green();
 				break;
 			}
+			System.out.println("abcd");
 
 		}
 
